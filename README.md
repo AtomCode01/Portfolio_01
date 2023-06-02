@@ -1,0 +1,1 @@
+This site is created by using Reactjs. Nextjs and fromer-motion
